@@ -23,6 +23,6 @@ public class GcTest {
     }
 
     public static void main(String[] args) {
-        E:\JvmLearn\out\production\JvmLearn\GcTest.class
+
     }
 }
